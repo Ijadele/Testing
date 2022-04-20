@@ -1,0 +1,59 @@
+ div{
+    /* height: 40px; */
+    /* margin: 10px; */
+     border-style: solid;
+    /* padding: 10px; */
+ }
+
+
+/* #solid{
+    border-style: solid;
+    padding-top: 40px;
+}
+
+#dotted{
+    border-style: dotted;
+    padding-right: 40px;
+}
+
+#dashed{
+    border-style: dashed;
+    padding-bottom: 40px;
+}
+
+#double{
+    border-style: double;
+    padding-left: 40px;
+} */
+
+#groove{
+    border-style: groove;
+    padding: 30px;
+    margin: 20px;
+}
+
+#ridge{
+    border-style: ridge;
+    padding: 40px 10px;
+    margin: 20px 30px;
+}
+
+#inset{
+    border-style: inset;
+    padding: 10px 50px 30px;
+    margin: 20px 25px 30px;
+}
+
+#outset{
+    border-style: outset;
+    padding: 20px 10px 60px 5px;
+    margin: 20px 25px 30px 35px;
+}
+
+#none{
+    border-style: none;
+}
+
+#hidden{
+    border-style: hidden;
+}
